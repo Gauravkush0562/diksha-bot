@@ -1,0 +1,53 @@
+{
+  "construction_material": [
+    {
+      "name_en": "Cement",
+      "name_hi": "सीमेंट",
+      "price": "₹350 per bag",
+      "promotion": "Today only: ₹330 per bag!",
+      "image": "https://i.postimg.cc/N9zZLrkx/cement.jpg"
+    },
+    {
+      "name_en": "Dust",
+      "name_hi": "डस्ट",
+      "price": "₹100 per bag",
+      "promotion": "Discount this week!",
+      "image": "https://i.postimg.cc/G96ZCG2L/dust.jpg"
+    },
+    {
+      "name_en": "Sand",
+      "name_hi": "चंबल",
+      "price": "₹120 per bag",
+      "promotion": "Special deal today!",
+      "image": "https://i.postimg.cc/BtjdkMJ7/chambal.jpg"
+    },
+    {
+      "name_en": "Bricks",
+      "name_hi": "ईंट",
+      "price": "₹5 per brick",
+      "promotion": "Bulk discount available!",
+      "image": "https://i.postimg.cc/njz6H1Bz/bricks.webp"
+    },
+    {
+      "name_en": "Sand Stones",
+      "name_hi": "पत्थर",
+      "price": "₹200 per bag",
+      "promotion": "Limited stock discount!",
+      "image": "https://i.postimg.cc/LJ37LWV5/sanstone.jpg"
+    },
+    {
+      "name_en": "Polished Sand Stone",
+      "name_hi": "घिसा हुआ पत्थर",
+      "price": "₹300 per bag",
+      "promotion": "Today only special!",
+      "image": "https://i.postimg.cc/hfxNPvz9/polished-sand-stone.jpg"
+    },
+    {
+      "name_en": "Gravels (1\"and1/2\")",
+      "name_hi": "गिट्टी",
+      "price": "₹250 per bag",
+      "promotion": "Discount this week!",
+      "image": "https://i.postimg.cc/Zvv2NKfz/gravel.webp"
+    }
+  ]
+}

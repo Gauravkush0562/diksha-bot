@@ -1,0 +1,16 @@
+{
+  "name": "diksha-bot",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@builderbot/bot": "^1.0.0",
+    "@builderbot/provider-baileys": "^1.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
